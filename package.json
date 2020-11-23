@@ -1,0 +1,25 @@
+{
+  "name": "weenyjs",
+  "version": "1.0.0",
+  "description": "猛犸小姐姐爱写代码",
+  "main": "index.js",
+  "bin": {
+    "weenyjs": "index.js"
+  },
+  "scripts": {
+    "test": "echo 'hello world'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/786320861/weenyjs.git"
+  },
+  "keywords": [
+    "猛犸"
+  ],
+  "author": "猛犸",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/786320861/weenyjs/issues"
+  },
+  "homepage": "https://github.com/786320861/weenyjs#readme"
+}
