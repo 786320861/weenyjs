@@ -1,6 +1,6 @@
 {
-  "name": "weenyjs",
-  "version": "1.0.0",
+  "name": "weeny-js",
+  "version": "1.0.1",
   "description": "猛犸小姐姐爱写代码",
   "main": "index.js",
   "bin": {
